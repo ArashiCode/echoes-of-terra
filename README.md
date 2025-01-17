@@ -1,6 +1,8 @@
 # echoes-of-terra
 
-Image Collection  
+[🗂️ Image Collection](https://github.com/ArashiCode/echoes-of-terra/tree/main/chibi)
+
+<p align="center"><img src="https://profile-counter.glitch.me/arashi/count.svg" alt="visitor badge" width="35%"></p>
 
 ---
 
